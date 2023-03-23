@@ -1,6 +1,6 @@
 <template>
   <div class="card w-[22rem] bg-base-100 shadow-xl h-full">
-    <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
+    <figure><img src="https://picsum.photos/400/200" alt="" /></figure>
     <div class="card-body">
       <h2 class="card-title">{{ post.title }}</h2>
       <p>{{ post.body }}</p>
