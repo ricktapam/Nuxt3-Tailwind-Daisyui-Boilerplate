@@ -5,6 +5,8 @@
 # npm
 
 npm install
+npm update
+npx nuxi upgrade
 
 ## Development Server
 
