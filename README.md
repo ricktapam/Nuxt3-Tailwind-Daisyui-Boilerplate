@@ -1,28 +1,17 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 + TailwindCSS + DaisyUI - Starter template
 
 ## Setup
 
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
 # npm
-npm install
 
-# pnpm
-pnpm install
-```
+npm install
 
 ## Development Server
 
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+npx nuxi dev
 ```
 
 ## Production
@@ -30,13 +19,11 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+npx nuxi build
 ```
 
 Locally preview production build:
 
 ```bash
-npm run preview
+npm nuxi build
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
