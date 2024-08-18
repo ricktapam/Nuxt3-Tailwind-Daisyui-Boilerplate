@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <Hero />
-  </div>
+  <Hero></Hero>
 </template>
-
-<script setup></script>
